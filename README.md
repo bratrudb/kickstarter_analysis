@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter campaigns to uncover trends
 
 ## Overview and Purpose of this Project
-The purpose of this analysis is to gain insight into a variety of Kickstarter campaigns to find trends in previous campaigns to inform us what it takes to achieve a successful campaign.
+Louise participated in a fundraising campaign for her play _Fever_. In this campaign, Louise came close to her fundraising goal in a short amount of time. The purpose of this analysis is to gain insight from a variety of Kickstarter campaigns in order to provide Louise with information on the outcome of other campaigns based on their launch dates and fundraising goals. This information will help Louise be successful in her upcomming fundraising campaigns.
 
 ## Analysis and Challenges
 
