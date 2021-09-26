@@ -28,7 +28,9 @@ We can conclude that a Kickstarter is more likely to succeed when the fundraisin
 
   * What are some limitations of this dataset?
 
-There are a few different limitations of this dataset. One limitation is the lack of campaigns that had goals above $15,000 in the play category. Another issue is the information provided about other campaigns lead one to believe that many of these campaigns are not professional productions. There are goals as low as $1 up to $100,000,000. Linda is attempting to work on a professional production. It is difficult to sort through and gain powerful insights if there are a significant number of campaigns in the dataset that do not represent professional productions.
+There are a few different limitations of this dataset. One limitation is the lack of campaigns that had goals above $15,000 in the play category. Professional plays require significant funding. Better data in this category would provide needed insight into the trends behind campaigns with higher goals.
+
+Another issue is the information provided about other campaigns lead one to believe that many of these campaigns are not professional productions. There are goals as low as $1 up to $100,000,000. Linda is attempting to work on a professional production. It is difficult to sort through and gain powerful insights if there are a significant number of campaigns in the dataset that do not represent professional productions.
 
   * What are some other possible tables and/or graphs that we could create?
 
