@@ -20,11 +20,15 @@ This use of quotations is different than many other ways quotations are used in 
 
   * What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-There are two key conclusions  we can draw from the Theater outcomes by Launch Date. The first is that the months where Kickstarters are most likely to be successful are May and June. The second conclusion we have found in this analysis is that the proportion of Kickstarters that are successful are much lower in the final few months of a year with Kickstarters beginning in December less likely to succeed than not.
+There are two key conclusions  we can draw from the Theater outcomes by Launch Date. The first is that the months where Kickstarters are most likely to be successful are May and June. The second conclusion we have found in this analysis is that the proportion of Kickstarters that are successful are much lower in the final few months of a year with Kickstarters beginning in December less likely to succeed than not. This can be seen in the chart below:
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90737940/134822421-ffdcf458-9a54-41fc-bbe1-e3c332a39ec9.png)
 
   * What can you conclude about the Outcomes based on Goals?
 
-We can conclude that a Kickstarter is more likely to succeed when the fundraising goal is less than $15,000. If the fundraising goal is less than $15,000, a Kickstarter is more likely to be successful than not. It is difficult to draw any conclusions on the success of Kickstarters above $15,000 as less than 10 percent of the Kickstarters that are included in this data set started with goals above $15,000. 
+We can conclude that a Kickstarter is more likely to succeed when the fundraising goal is less than $15,000. It is difficult to draw any conclusions on the success of Kickstarters above $15,000 as less than 10 percent of the Kickstarters that are included in this data set started with goals above $15,000. Due to this lack of data, the following chart might be slightly misleading as it is difficult to say that Kickstarters with goals above $15,000 are more likely to fail since there is limited data.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90737940/134822468-05b8bce2-cf58-43fc-9773-3db283f3d44a.png)
 
   * What are some limitations of this dataset?
 
